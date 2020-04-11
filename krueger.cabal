@@ -198,7 +198,8 @@ Executable krueger
         Type.Type
         Type.Unify
         Type.UnionFind
-        Paths_elm
+        -- Paths_elm
+        Paths_krueger
 
     Build-depends:
         ansi-terminal >= 0.8 && < 0.9,
